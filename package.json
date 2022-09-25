@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    
+  },
+  "name": "get-lost",
+  "version": "1.0.0",
+  "description": "App for recording outdoor adventures.",
+  "main": "server.js",
+  "devDependencies": {
+    "concurrently": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rohirrimsride"
+  },
+  "author": "rohirrimsride",
+  "license": "ISC"
+}
